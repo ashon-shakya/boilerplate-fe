@@ -1,7 +1,15 @@
 {
-  "name": "react-boilerplate",
-  "version": "0.1.0",
+  "name": "react-boilerplate-fe",
+  "version": "1.0.0",
   "private": true,
+  "keywords": [
+    "node",
+    "boilerplate",
+    "api"
+  ],
+  "author": "Rebbtech",
+  "license": "MIT",
+  "description": "React Boilerplate",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
