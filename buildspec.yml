@@ -1,11 +1,9 @@
 version: 0.2
 
 phases:
-  check_node:
-    commands:
-      - node -v
   pre_build:
     commands:
+      - node -v
       - npm install
   build:
     commands:
